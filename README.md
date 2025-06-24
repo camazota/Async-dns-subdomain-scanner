@@ -41,8 +41,9 @@ It performs fast and efficient subdomain enumeration using multiple DNS servers 
 
 4. Programı çalıştırın:  
    Run the program:
-
-<code>python main.py</code>
+```bash
+python titandns.py
+```
 
 Program sizden domain ve subdomain dosya isimlerini isteyecektir (varsayılanlar belirtilmiştir).  
 The program will ask for domain and subdomain file names (defaults are provided).
