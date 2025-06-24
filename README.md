@@ -20,10 +20,11 @@ It performs fast and efficient subdomain enumeration using multiple DNS servers 
 
 ## Kurulum / Installation
 
-<code>git clone https://github.com/kullaniciadi/async-dns-subdomain-scanner.git
-cd async-dns-subdomain-scanner
-pip install -r requirements.txt
-</code>
+```bash
+   git clone https://github.com/kullaniciadi/async-dns-subdomain-scanner.git
+   cd async-dns-subdomain-scanner
+   pip install -r requirements.txt
+```
 
 ---
 
